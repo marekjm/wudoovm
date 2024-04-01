@@ -58,6 +58,10 @@ are:
   as Viua ELFs are valid ELF files)
 - `repl`: a primitive debugger
 
+--------------------------------------------------------------------------------
+
+## Compiling
+
 The whole toolchain can be compiled using GCC or Clang. The build is automated
 using GNU Make:
 
@@ -65,6 +69,8 @@ using GNU Make:
 ]$ make -j
 ]$ ./build/bin/vm --version -v
 ```
+
+See [BUILD](./BUILD.markdown) for more information.
 
 --------------------------------------------------------------------------------
 
