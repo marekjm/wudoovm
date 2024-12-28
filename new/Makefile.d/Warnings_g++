@@ -38,7 +38,7 @@ CXXFLAGS_WARNING?=\
 				  -Wsign-promo \
 				  -Wstack-protector \
 				  -Wstrict-aliasing=3 \
-				  -Wstrict-overflow=5 \
+				  -Wstrict-overflow=2 \
 				  -Wsuggest-attribute=noreturn \
 				  -Wsuggest-final-methods \
 				  -Wsuggest-final-types \
