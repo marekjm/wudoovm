@@ -19,7 +19,6 @@
 
 #include <assert.h>
 
-#include <iomanip>
 #include <iostream>
 #include <regex>
 #include <set>
